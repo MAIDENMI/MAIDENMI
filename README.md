@@ -6,31 +6,59 @@
   <a href="https://aidenmiah.co/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aiden-m-888o6" target="_blank">
+  <a href="https://www.linkedin.com/in/aidenmiah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aidenmiah3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=MAIDENMI&label=Profile%20views&color=00F7FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 **CS @ Toronto Metropolitan University (TMU)**
-- 💼 **SWE Intern @ Scotiabank**
-- 🤖 **Prev ML @ Viable AI**
-- 🏆 **Founder @ HackTrent & CS Club**
-- 🌍 Based in Toronto | 🕒 Local time: 12:21 (UTC -07:00)
-- 🛠️ Building with **React**, **Flask**, and **AI tools**
-- 💡 Always learning, always building!
+- 🎓 **CS @ Toronto Metropolitan University (TMU)**, Expected Grad: **April 2027**
+- 💼 **Analytics DevOps Engineer Intern @ Scotiabank** (May 2025 - Aug 2025)
+- 💼 **Software Engineer Intern @ Scotiabank** (Sep 2024 - Apr 2025)
+- 🤖 **Machine Learning Intern @ Viable AI** (May 2024 - Aug 2024)
+- 🏆 **Founder @ CrushCade, HackTrent, Trent Computer Science Club**
+- 🌍 Based in Toronto, ON
+- 🏅 **Awards:** Google + Scotiabank AI Hackathon Award, 5x Hackathon Winner, 3x Founder, Adobe Funded Project
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,python,flask,js,cpp,tailwind,git,github,linux,figma" />
-</p>
+**Languages:** Python, JavaScript, TypeScript, Java, C#, HTML, CSS, React.js, Next.js, React Native, Flask  
+**Software:** PyTorch, TensorFlow, OpenCV, YOLO, Pandas, NumPy, Gemini API, OpenAI API, Auth0, REST APIs  
+**Cloud & DevOps:** GCP, Docker, Bitbucket, GitHub Actions, Jenkins, Cloudflare Workers, Terraform, Agile, CI/CD
+
+---
+
+## 🚀 Featured Projects
+
+- **[ShopCade - Shopify Hackathon](#)**  
+  🏀 Basketball-themed game using **React** and **Shopify Shop Minis SDK**. Weekly leaderboards, rewards, and demoed at Toronto Tech Week.
+
+- **[Care Connect - AI Companion for Orphans](https://github.com/MAIDENMI/CareConnect-AI-Agent)**  
+  🤖 AI agent using **Gemini API** and **Google NLP**. Won 2nd Place Overall and Top 5 for the Wolfram Award.
+
+- **[Chill Bill - Gen Z Financial Wellness App](https://github.com/MAIDENMI/Chill-Bill)**  
+  🏆 Won Best Financial App. Combines **Llama 2**, **Plaid API**, and **gamified UX** for budgeting and mood tracking.
+
+- **[CrushCade](#)**  
+  🎮 Swipe-based mobile app for cross-platform game discovery. Built with **React Native**, **Firebase**, and **OpenAI**.
+
+- **[Arduino-LCD-Display-Project](https://github.com/MAIDENMI/Arduino-LCD-Display-Project)**  
+  <sub>C++</sub>
+
+- **[ObjectDectectionOpenCv](https://github.com/MAIDENMI/ObjectDectectionOpenCv)**  
+  <sub>Python</sub>
+
+- **[TemperatureConverter](https://github.com/MAIDENMI/TemperatureConverter)**  
+  <sub>JavaScript (iOS/Android app)</sub>
 
 ---
 
@@ -38,53 +66,8 @@
 
 - 🦈 **Pull Shark** (GitHub Achievements)
 - 🏆 **Founder**: HackTrent & CS Club
-
----
-
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/MAIDENMI/Arduino-LCD-Display-Project">
-        <b>Arduino-LCD-Display-Project</b>
-      </a>
-      <br/><sub>C++</sub>
-    </td>
-    <td>
-      <a href="https://github.com/MAIDENMI/ObjectDectectionOpenCv">
-        <b>ObjectDectectionOpenCv</b>
-      </a>
-      <br/><sub>Python</sub>
-    </td>
-    <td>
-      <a href="https://github.com/MAIDENMI/TemperatureConverter">
-        <b>TemperatureConverter</b>
-      </a>
-      <br/><sub>JavaScript (iOS/Android app)</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MAIDENMI/CareConnect-AI-Agent">
-        <b>CareConnect-AI-Agent</b>
-      </a>
-      <br/><sub>TypeScript</sub>
-    </td>
-    <td>
-      <a href="https://github.com/MAIDENMI/Chill-Bill">
-        <b>Chill-Bill</b>
-      </a>
-      <br/><sub>TypeScript (Fork)</sub>
-    </td>
-    <td>
-      <a href="https://github.com/MAIDENMI/gupiteer">
-        <b>gupiteer</b>
-      </a>
-      <br/><sub>JavaScript (Fork)</sub>
-    </td>
-  </tr>
-</table>
+- 🏅 **Google + Scotiabank AI Hackathon Award**
+- 🏅 **5x Hackathon Winner**
 
 ---
 
