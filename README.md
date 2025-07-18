@@ -6,7 +6,7 @@
   <a href="https://aidenmiah.co/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aidenmiah" target="_blank">
+  <a href="hwww.linkedin.com/in/aidenm" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aidenmiah3@gmail.com" target="_blank">
