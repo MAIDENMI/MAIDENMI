@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **CS @ Toronto Metropolitan University (TMU)**, Expected Grad: **April 2027**
+- 🎓 **CS @ Toronto Metropolitan University (TMU)**
 - 💼 **Analytics DevOps Engineer Intern @ Scotiabank** (May 2025 - Aug 2025)
 - 💼 **Software Engineer Intern @ Scotiabank** (Sep 2024 - Apr 2025)
 - 🤖 **Machine Learning Intern @ Viable AI** (May 2024 - Aug 2024)
