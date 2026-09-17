@@ -38,7 +38,8 @@
 ---
 
 ## 🚀 Featured Projects
-
+- **[Veloria - AI-Powered Wellness Platform](https://github.com/MAIDENMI/Veloria)**
+  - Built a live platform using **MongoDB Atlas**, **Vector Search**, and AI-powered semantic retrieval. Worked on data modeling, query optimization, and production performance improvements.
 - **[ShopCade - Shopify Hackathon](#)**  
   🏀 Basketball-themed game using **React** and **Shopify Shop Minis SDK**. Weekly leaderboards, rewards, and demoed at Toronto Tech Week.
 
