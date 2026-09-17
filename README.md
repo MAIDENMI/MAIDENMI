@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Platform Engineer @ Scotiabank** 
+- 💼 **Platform Engineer @ Scotiabank** (Aug 2025 - Feb 2026)
 - 💼 **Analytics DevOps Engineer@ Scotiabank** (May 2025 - Aug 2025)
 - 💼 **Software Engineer @ Scotiabank** (Sep 2024 - Apr 2025)
 - 🤖 **Machine Learning Intern @ Viable AI** (May 2024 - Aug 2024)
