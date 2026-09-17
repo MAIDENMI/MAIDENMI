@@ -30,7 +30,7 @@
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, JavaScript, TypeScript, Java, C#, HTML, CSS, React.js, Next.js, React Native, Flask  
+**Languages:** Python, SQL, JavaScript, TypeScript, Java, C#, HTML, CSS, React.js, Next.js, React Native, Flask  
 **Software:** PyTorch, TensorFlow, OpenCV, YOLO, Pandas, NumPy, Gemini API, OpenAI API, Auth0, REST APIs  
 **Cloud & DevOps:** GCP, Docker, Bitbucket, GitHub Actions, Jenkins, Cloudflare Workers, Terraform, Agile, CI/CD
 
