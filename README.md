@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aiden+Miah+%F0%9F%91%8B;CS+@+TMU+%7C+SWE++%40+Scotiabank;Prev+ML+%40+Viable+AI;React%2C+Flask%2C+AI+Builder+%F0%9F%9A%80" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aiden+Miah+%F0%9F%91%8B;Prev+SWE+%40+Scotiabank;Prev+ML+%40+Viable+AI;React%2C+Flask%2C+AI+Builder+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,6 @@
 - 🏆 **Founder @ Veloria AI, HackTrent, Computer Science Club**
 - 🌍 Based in Toronto, ON
 - 🏅 **Awards:** Google + Scotiabank AI Hackathon Award, 5x Hackathon Winner, 3x Founder, Adobe Funded Project
-- 🎓 **CS @ Toronto Metropolitan University (TMU)**
 ---
 
 ## 🛠️ Technical Skills
