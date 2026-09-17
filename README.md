@@ -19,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Platform Engineer @ Scotiabank** (Present)
+- 💼 **Platform Engineer @ Scotiabank** 
 - 💼 **Analytics DevOps Engineer@ Scotiabank** (May 2025 - Aug 2025)
 - 💼 **Software Engineer @ Scotiabank** (Sep 2024 - Apr 2025)
 - 🤖 **Machine Learning Intern @ Viable AI** (May 2024 - Aug 2024)
-- 🏆 **Founder @ CrushCade, HackTrent, Computer Science Club**
+- 🏆 **Founder @ Veloria AI, HackTrent, Computer Science Club**
 - 🌍 Based in Toronto, ON
 - 🏅 **Awards:** Google + Scotiabank AI Hackathon Award, 5x Hackathon Winner, 3x Founder, Adobe Funded Project
 - 🎓 **CS @ Toronto Metropolitan University (TMU)**
