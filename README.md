@@ -38,8 +38,10 @@
 ---
 
 ## 🚀 Featured Projects
-- **[Veloria - AI-Powered Wellness Platform](https://github.com/MAIDENMI/Veloria)**
-  - Built a live platform using **MongoDB Atlas**, **Vector Search**, and AI-powered semantic retrieval. Worked on data modeling, query optimization, and production performance improvements.
+- **[EUNOIA (Veloria) | AI-Powered Mental Wellness Companion](https://github.com/MAIDENMI/Veloria)**
+  - Built at HackHarvard 2025 using Next.js, TypeScript, Python, Google Gemini, ElevenLabs, and Tailwind CSS.
+  - Created an AI wellness companion with voice interaction, a responsive 3D avatar, and emotion-aware conversational responses.
+  - Built in 48 hours with a three-person team.
 - **[ShopCade - Shopify Hackathon](#)**  
   🏀 Basketball-themed game using **React** and **Shopify Shop Minis SDK**. Weekly leaderboards, rewards, and demoed at Toronto Tech Week.
 
